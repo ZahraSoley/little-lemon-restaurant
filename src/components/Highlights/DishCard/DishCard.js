@@ -1,4 +1,4 @@
-import './DishCard.css'
+import './Dishcard.css'
 import CardInfo from '../../../assets/DishCardInfo'
 
 const DishCard = () => {

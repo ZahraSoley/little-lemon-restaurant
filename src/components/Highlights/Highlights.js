@@ -1,4 +1,4 @@
-import './Highlights.css'
+import './HighLights.css';
 import DishCard from './DishCard/DishCard';
 
 const Highlights = () => {
